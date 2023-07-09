@@ -13,8 +13,7 @@ namespace lab
         private int accId;
         private string accName;
         private double accBalance;
-        private Transaction[] listOfTransactions;
-        private int totalNumberOfTransactions;
+        
 
 
         public Account() { }
