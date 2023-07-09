@@ -22,9 +22,7 @@ namespace lab
             this.accId = accId;
             this.accName = accName;
             this.accBalance = accBalance;
-            listOfTransactions = new Transaction[100];
-            totalNumberOfTransactions = 0;
-
+            
         }
         public int AccId
         {
